@@ -7,4 +7,5 @@ Would appreciate edits and corrections.
 [install jupyter notebook](http://jupyter.org/install.html) to run these notebooks.
 
 I've taken these tutorials and edited it depending on where I take my sessions.
-\n Credits: [Python Tutorial by pycam](https://github.com/pycam/python-intro)
+
+Credits: [Python Tutorial by pycam](https://github.com/pycam/python-intro)
