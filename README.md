@@ -6,3 +6,5 @@ Would appriciate edits and corrections.
 
 [install jupyter notebook](http://jupyter.org/install.html)
 
+I've taken these tutorials and edited it.
+Credits: 
