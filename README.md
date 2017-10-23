@@ -6,5 +6,5 @@ Would appriciate edits and corrections.
 
 [install jupyter notebook](http://jupyter.org/install.html)
 
-I've taken these tutorials and edited it.
-Credits: 
+I've taken these tutorials and edited it depending on where I take my sessions.
+Credits: [Python Tutorial by pycam](https://github.com/pycam/python-intro)
