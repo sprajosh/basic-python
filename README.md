@@ -4,7 +4,7 @@ This is a Basic Python tutorial I made for a session for my juniors at college. 
 
 Would appreciate edits and corrections.
 
-[install jupyter notebook](http://jupyter.org/install.html)
+[install jupyter notebook](http://jupyter.org/install.html) to run these notebooks.
 
 I've taken these tutorials and edited it depending on where I take my sessions.
 Credits: [Python Tutorial by pycam](https://github.com/pycam/python-intro)
