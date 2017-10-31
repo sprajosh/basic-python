@@ -11,10 +11,10 @@ Would appreciate edits and corrections.
     The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
 
     Jupyter provides a rich architecture for interactive data science and scientific computing with:
-        Over 40 programming languages such as Python, R, Julia and Scala.
-        A browser-based notebook with support for code, rich text, math expressions, plots and other rich media.
-        Support for interactive data visualization.
-        Easy to use tools for parallel computing.
+    - Over 40 programming languages such as Python, R, Julia and Scala.
+    - A browser-based notebook with support for code, rich text, math expressions, plots and other rich media.
+    - Support for interactive data visualization.
+    - Easy to use tools for parallel computing.
 
 
 [install jupyter notebook](https://jupyter.readthedocs.io/en/latest/install.html) to run these notebooks.
