@@ -729,4 +729,4 @@ print(list(sports.items()))
 
 ## Next Session
 
-- Go to next session: [Session 3](Session_3.ipynb)
+- Go to next session: [Session 3](Session_3.md)
