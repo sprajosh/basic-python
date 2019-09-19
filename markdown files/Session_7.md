@@ -57,4 +57,4 @@ Good luck!
 
 ## Next session
 
-- Go to next session: [Session 8](Session_8.ipynb)
+- Go to next session: [Session 8](Session_8.md)
