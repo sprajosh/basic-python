@@ -57,11 +57,11 @@
 ## The terminal
 
 We will see later how to save code in a file and run it.
-<center><img src="img/terminal.png"></center>
+<center><img src="../img/terminal.png"></center>
 
 ## What is a Jupyter notebook?
 
-<center><img src="img/Jupyter.svg"></center>
+<center><img src="../img/Jupyter.svg"></center>
 
 - The [Jupyter Notebook](http://jupyter.org/) is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. 
 
@@ -76,7 +76,7 @@ We will see later how to save code in a file and run it.
 
 
 
-<center><img src="img/Jupyter.svg"></center>
+<center><img src="../img/Jupyter.svg"></center>
 
 - [See Installing Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/install.html)
 
@@ -92,9 +92,10 @@ jupyter-notebook
 ## How to run python in a Jupyter notebook?
 
 
-<center><img src="img/Jupyter.svg"></center>
+<center><img src="../img/Jupyter.svg"></center>
 
 - See [Jupyter Notebook Basics](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
 
 
-- Go to first session: [Session 1](Session_1.ipynb)
+- Go to first session: [Session 1](Session_1.md)
+
