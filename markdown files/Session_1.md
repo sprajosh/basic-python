@@ -533,4 +533,4 @@ In the interpreter:
 
 ## Next Session
 
-[Go to next session](Session_2.ipynb)
+[Go to next session](Session_2.md)
