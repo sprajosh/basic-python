@@ -218,4 +218,4 @@ Create a `if..elif..else` block that will compare a variable containing your age
 
 ## Next session
 
-- Go to next session: [Session 4](Session_4.ipynb)
+- Go to next session: [Session 4](Session_4.md)
