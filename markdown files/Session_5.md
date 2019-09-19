@@ -181,4 +181,4 @@ And the world will live as one
 
 ## Next session
 
-- Go to next session: [Session 6](Session_6.ipynb)
+- Go to next session: [Session 6](Session_6.md)
