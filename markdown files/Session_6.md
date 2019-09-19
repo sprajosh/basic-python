@@ -442,4 +442,4 @@ print(counter)
 
 ## Next session
 
-- Go to next session: [Session 7](Session_7.ipynb)
+- Go to next session: [Session 7](Session_7.md)
